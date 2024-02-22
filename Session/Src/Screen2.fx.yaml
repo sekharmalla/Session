@@ -1,0 +1,19 @@
+Screen2 As screen:
+
+    Container1 As groupContainer.manualLayoutContainer:
+        X: =8
+        Y: =12
+        ZIndex: =1
+
+        Button1 As button:
+            Text: ="Button"
+            X: =40
+            Y: =40
+            ZIndex: =1
+
+    Button3 As button:
+        Text: ="Button"
+        X: =72
+        Y: =280
+        ZIndex: =2
+
