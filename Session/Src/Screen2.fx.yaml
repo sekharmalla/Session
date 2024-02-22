@@ -22,6 +22,14 @@ Screen2 As screen:
         Y: =250
         ZIndex: =3
 
+    Label2 As label:
+        Height: =42
+        Text: ="Feature - version 1.0.0"
+        Width: =215
+        X: =1144
+        Y: =724
+        ZIndex: =3
+
     TextInput2 As text:
         Default: ="Text input
         X: =755
