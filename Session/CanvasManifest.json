@@ -120,7 +120,7 @@
     "ManualOfflineProfileId": "",
     "Name": "Sessions",
     "OriginatingVersion": "1.337",
-    "ParserErrorCount": 0,
+    "ParserErrorCount": 1,
     "ShowStatusBar": false
   },
   "PublishInfo": {

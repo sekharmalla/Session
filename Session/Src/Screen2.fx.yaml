@@ -17,3 +17,14 @@ Screen2 As screen:
         Y: =280
         ZIndex: =2
 
+    Rectangle3 As rectangle:
+        X: =282
+        Y: =250
+        ZIndex: =3
+
+    TextInput2 As text:
+        Default: ="Text input
+        X: =755
+        Y: =240
+        ZIndex: =4
+
