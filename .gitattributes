@@ -1,0 +1,3 @@
+Entropy checksum.json merge=keepMine
+Entropy.json merge=keepMine
+AppCheckerResult.sarif merge=keepMine
